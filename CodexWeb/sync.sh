@@ -11,6 +11,7 @@ set -eu
 #   ${REMOTE_FOLDER}/app -> /app
 
 BACKUP_PATHS="
+/app/apps/api/data/
 /app/data/
 /app/sync.sh
 "
